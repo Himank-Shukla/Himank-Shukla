@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, My name is [Himank Shukla](https://himank-shukla.github.io/Portfolio/)
 
 # 💫 About Me:
 🔭 I’m currently working on Backend Development<br>👯 I’m looking to collaborate on Full Stack Development<br>🌱 I’m currently learning Front end Development and AI/ML<br><br>I'm Himank Shukla, a seasoned backend developer with over 2 years of professional experience specialising in Java and python. Over my career, I have developed robust server-side applications, streamlined processes through efficient microservice architecture, and played a pivotal role in several high-impact projects. 
@@ -18,6 +18,3 @@
 
 ---
 ![](https://visitcount.itsvg.in/api?id=himank-shukla&icon=0&color=7)<br/>
-[Himank Shukla](https://himank-shukla.github.io/Me/)
-
-
