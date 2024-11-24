@@ -17,4 +17,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=himank-shukla&theme=dracula&hide_border=false&count_private=true&layout=compact)
 
 ---
-![](https://visitcount.itsvg.in/api?id=himank-shukla&icon=0&color=7)<br/>
